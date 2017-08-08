@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/tests/CMakeFiles/generate.stamp is up-to-date.
+  monitors.c
+  getopt.c
+  Generating Code...
+  monitors.vcxproj -> C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\tests\Debug\monitors.exe
+  monitors.vcxproj -> C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/tests/Debug/monitors.pdb (Full PDB)

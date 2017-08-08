@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/tests/CMakeFiles/generate.stamp is up-to-date.
+  clipboard.c
+  getopt.c
+  Generating Code...
+  clipboard.vcxproj -> C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\tests\Debug\clipboard.exe
+  clipboard.vcxproj -> C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/tests/Debug/clipboard.pdb (Full PDB)

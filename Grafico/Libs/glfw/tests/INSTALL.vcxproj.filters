@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\CMakeFiles\3954c9c18e68c68b66e3753839cc3393\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{17A9AA8F-CDD2-3D31-9289-DE1B22668914}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

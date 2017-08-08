@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/examples/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/examples/CMakeFiles/generate.stamp is up-to-date.
+  simple.c
+  simple.vcxproj -> C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\examples\Debug\simple.exe
+  simple.vcxproj -> C:/Users/alber/Documents/Visual Studio 2017/Projects/Grafico/Libs/glfw/examples/Debug/simple.pdb (Full PDB)

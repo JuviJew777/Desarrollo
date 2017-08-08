@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\tests\tearing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alber\Documents\Visual Studio 2017\Projects\Grafico\Libs\glfw\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A85F16AF-DE2D-37B7-A3CF-08D0CD9A455A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{80D4C6B7-1B2A-35E6-B204-2D4DE1F3C4F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
